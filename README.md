@@ -18,3 +18,16 @@ This project analyzes customer support tickets for an airline to evaluate operat
 ## 🛠️ Tools Used:
 * **Microsoft Excel:** (Calculated Columns for "Time to Resolve", Pivot Tables, Data Cleaning).
 * **Interactive Dashboard:** To track Ticket Volume, Status, and Cost per Country.
+
+## Most important charts:
+<img width="896" height="576" alt="image" src="https://github.com/user-attachments/assets/b18d9c80-1e9d-4124-b3b2-0cabbbd2e466" />
+<img width="840" height="533" alt="image" src="https://github.com/user-attachments/assets/124ffb69-1df5-482f-8230-fe93704b9731" />
+<img width="816" height="533" alt="image" src="https://github.com/user-attachments/assets/b2345921-92c3-4ca5-9d4e-99b5e3ee3477" />
+<img width="811" height="482" alt="image" src="https://github.com/user-attachments/assets/8d1c3562-e9b5-4152-85e7-3b303f42c9e5" />
+<img width="867" height="568" alt="image" src="https://github.com/user-attachments/assets/1e14cec8-0a7b-424d-9980-fff11a8ee23d" />
+
+
+
+
+
+
