@@ -85,10 +85,17 @@ Allocate resources to departments with highest ticket volume to balance workload
 Plan staffing around peak months to maintain service efficiency.
 
 ## 💰 Business Impact
-Faster resolution of high-priority tickets → reduces customer churn
-Addressing top recurring issues → lowers operational costs
-Optimizing channels and department workloads → improves service efficiency and satisfaction
-Proactive planning for peak months → enhances operational scalability
+- Faster resolution of high-priority tickets → reduces customer churn
+- Addressing top recurring issues → lowers operational costs
+- Optimizing channels and department workloads → improves service efficiency and satisfaction
+- Proactive planning for peak months → enhances operational scalability
+- Reducing resolution time can significantly improve customer satisfaction
+- Identifying high-cost issues helps optimize operational expenses
+- Improving response efficiency reduces customer complaints and churnز
+
+## Notes
+Some tickets showed extremely high resolution times (200+ days), which were treated as outliers and excluded using the average duartion which is 90 days 
+as i have tried to use IQR bit lower and upper bound is very strange.
 
 ## 📊 Visualizations / Dashboard
 <img width="292" height="143" alt="image" src="https://github.com/user-attachments/assets/be2fe2ae-5dae-4024-9d3d-f701f9d5e6b2" />
