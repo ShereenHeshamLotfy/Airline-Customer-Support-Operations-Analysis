@@ -3,12 +3,6 @@
 ## 📌 Project Overview
 This project analyzes customer support tickets for an airline to evaluate operational efficiency and service quality. By examining ticket lifecycles (from Open to Closed), issue types, and resolution costs, I identified bottlenecks in customer service and areas for cost optimization.
 
-## 📊 Dataset Columns Included:
-* **Ticket Tracking:** Ticket ID, Status (Open/Closed), Priority.
-* **Customer Info:** Name, Country, Contact Details.
-* **Operational Metrics:** Issue Type, Channel (Source of complaint), Estimated Cost.
-* **Timeline:** Date Opened, Date Closed (Duration Analysis).
-
 ## 📌 Business Problem
 
 Airlines struggle to efficiently manage customer support tickets, which affects customer satisfaction, operational efficiency, and overall cost management. Identifying bottlenecks and high-impact issues is critical to improving service quality and reducing operational expenses.
@@ -25,7 +19,13 @@ Analyze airline customer support tickets to:
 
 Identify patterns in issue types, departments, and channels
 Measure resolution duration and estimated costs
-Provide actionable recommendations to optimize operations and customer satisfaction
+Provide actionable recommendations to optimize operations and customer satisfaction.
+
+## 📊 Dataset Columns Included:
+* **Ticket Tracking:** Ticket ID, Status (Open/Closed), Priority.
+* **Customer Info:** Name, Country, Contact Details.
+* **Operational Metrics:** Issue Type, Channel (Source of complaint), Estimated Cost.
+* **Timeline:** Date Opened, Date Closed (Duration Analysis).
 
 ## 💡 Key Insights
 # 1. Ticket Volume & Customers
